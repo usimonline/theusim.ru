@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /searchnews
+Disallow: /topic
+Disallow: /pastnews
+Host: https://theusim.ru/
+Sitemap: https://theusim.ru/sitemap.xml
