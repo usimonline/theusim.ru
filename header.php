@@ -51,7 +51,7 @@
             <div class="t770__logowrapper2">
               <div style="display: block;">
                 <a href="http://<?php echo $site_name; ?>">
-                  <img src="<?php echo $main_name; ?>/index/007-compressor.jpg" class="t770__imglogo t770__imglogomobile"
+                  <img src="<?php echo $main_name; ?>/index/006-compressor.jpg" class="t770__imglogo t770__imglogomobile"
                        style="max-width: 150px; width: 150px;" alt="" data-img-width="250px">
                 </a>
               </div>
