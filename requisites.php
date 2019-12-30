@@ -12,7 +12,7 @@ $yandex_map = 'https://yandex.by/maps/-/CBBjbQb6xA';
 $yandex_map_widg = 'https://yandex.by/map-widget/v1/-/CBBjbQb6xA';
 
 $company_name = 'usimov.hol.es';
-$vk_name = 'https://vk.com/bybyinfo';
+$vk_name = 'https://vk.com/byby_info';
 $fb_name = 'https://www.facebook.com/Olgausim-519372818804183/';
 $inst_name = 'https://www.instagram.com/byby_info/';
 
