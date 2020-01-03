@@ -49,7 +49,7 @@
         <div class="t770__topwrapper" style="height:100px;">
           <div class="t770__logowrapper">
             <div class="t770__logowrapper2">
-              <div style="display: block;">
+              <div style="display: block; font-size:20px;">
                 <a href="http://<?php echo $site_name; ?>">Надежный копирайтинг
                   <!--<img src="<?php //echo $main_name; ?>/index/006-compressor.jpg" class="t770__imglogo t770__imglogomobile"
                        style="max-width: 150px; width: 150px;" alt="" data-img-width="250px"> -->
